@@ -4,7 +4,7 @@ These are my files from the edX class "HarvardX: CS50 Introduction to Computer S
 
 I started this class in May of 2016
 
-Copied below is the Sylabus:
+Copied below is the [Sylabus](http://docs.cs50.net/2017/x/syllabus.html):
 
 ### Syllabus
 
