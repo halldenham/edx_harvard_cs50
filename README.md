@@ -10,11 +10,21 @@ Copied below is the Sylabus
 Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. Designed for majors and non-majors alike, with or without prior programming experience.
 
 ### Lectures
-- [Week 0: Scratch]
-- [Week 1: C]
+- Week 0: Scratch
+- Week 1: C
+- Week 2: Arrays
+- Week 3: Algorithms
+- Week 4: Memory
+- Week 5: Data Structures
+- Week 6: HTTP
+- Week 7: Machine Learning
+- Week 8: Python
+- Week 9: SQL
+- Week 10: JavaScript
+- Week 11: The End
 
 ### psets:
-- [Problem Set 1: C](http://docs.cs50.net/2017/x/psets/1/pset1.html)
+- Problem Set 1: C
 - [Problem Set 2: Crypto](http://docs.cs50.net/2017/x/psets/2/pset2.html)
 - [Problem Set 3: Game of Fifteen](http://cdn.cs50.net/2016/x/psets/3/pset3/pset3.html)
 - [Problem Set 4: Forensics](http://cdn.cs50.net/2016/x/psets/4/pset4/pset4.html)
@@ -24,8 +34,7 @@ Introduction to the intellectual enterprises of computer science and the art of 
 - [Problem Set 8: Mashup](http://cdn.cs50.net/2016/x/psets/8/pset8/pset8.html)
 
 ### [final project](http://cdn.cs50.net/2016/x/project/project.html)
-- www.rickorstick.xyz
-- [Promo video](https://www.youtube.com/watch?v=_AedKbdMtcU)
+
 
 ### [syllabus:](http://cdn.cs50.net/2016/x/references/syllabus/syllabus.html)
 #####Week 0
