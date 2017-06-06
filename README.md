@@ -24,22 +24,20 @@ Introduction to the intellectual enterprises of computer science and the art of 
 - Week 11: The End
 
 ### Problem Sets (psets):
-- Problem Set 1: C
+- [Problem Set 1: C](http://docs.cs50.net/2017/x/psets/1/pset1.html)
   - Language: C
 - [Problem Set 2: Crypto](http://docs.cs50.net/2017/x/psets/2/pset2.html)
-- [Problem Set 3: Game of Fifteen](http://cdn.cs50.net/2016/x/psets/3/pset3/pset3.html)
-- [Problem Set 4: Forensics](http://cdn.cs50.net/2016/x/psets/4/pset4/pset4.html)
-- [Problem Set 5: Mispellings](http://cdn.cs50.net/2016/x/psets/5/pset5/pset5.html)
-- [Problem Set 6: Web Server](http://cdn.cs50.net/2016/x/psets/6/pset6/pset6.html)
-- [Problem Set 7: C$50 Finance](http://cdn.cs50.net/2016/x/psets/7/pset7/pset7.html)
-- [Problem Set 8: Mashup](http://cdn.cs50.net/2016/x/psets/8/pset8/pset8.html)
-
-### [final project](http://cdn.cs50.net/2016/x/project/project.html)
-
-
-### [syllabus:](http://cdn.cs50.net/2016/x/references/syllabus/syllabus.html)
-#####Week 0
-Binary. ASCII. Algorithms. Pseudocode. Source code. Compiler. Object code. Scratch. Statements. Boolean expressions. Conditions. Loops. Variables. Functions. Arrays. Threads. Events.
-
-#####Week 1
-Linux. C. Compiling. Libraries. Types. Standard output.
+  - Language: C
+- [Problem Set 3: Game of Fifteen](http://docs.cs50.net/2017/x/psets/3/pset3.html)
+  - Language: C
+- [Problem Set 4: Forensics](http://docs.cs50.net/2017/x/psets/4/pset4.html)
+  - Language: C
+- [Problem Set 5: Mispellings](http://docs.cs50.net/2017/x/psets/5/pset5.html)
+  - Language: C
+- [Problem Set 6: Sentimental](http://docs.cs50.net/2017/x/psets/6/pset6.html)
+  - Language: Python
+- [Problem Set 7: C$50 Finance](http://docs.cs50.net/2017/x/psets/7/pset7.html)
+  - Language: Python, SQL
+- [Problem Set 8: Mashup](http://docs.cs50.net/2017/x/psets/8/pset8.html)
+  - Language: JavaScript
+- [Final Project](http://docs.cs50.net/2017/x/syllabus.html)
