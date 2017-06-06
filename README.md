@@ -5,7 +5,7 @@ taught by David J. Malan and recorded at Harvard and Yale in Fall 2016
 
 I started this class on edX in May 2017
 
-Copied below is the [Sylabus](http://docs.cs50.net/2017/x/syllabus.html):
+Copied below are notes from the [Sylabus](http://docs.cs50.net/2017/x/syllabus.html):
 
 
 ### Syllabus
